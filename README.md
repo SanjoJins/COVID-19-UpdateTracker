@@ -11,5 +11,5 @@ This React Webapp visualize the status of COVID19 using Charts
 
 ## Previews
 
-1. ![alt tag](https://github.com/SanjoJins/COVID-19-UpdateTracker/blob/master/2.png)<br/>
-2. ![alt tag](https://github.com/SanjoJins/COVID-19-UpdateTracker/blob/master/1.png)<br/>
+![alt tag](https://github.com/SanjoJins/COVID-19-UpdateTracker/blob/master/2.png)<br/>
+![alt tag](https://github.com/SanjoJins/COVID-19-UpdateTracker/blob/master/1.png)<br/>
